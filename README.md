@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EhsanPazhooman?cardType=github&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanPazhooman)](https://github.com/anuraghazra/github-readme-stats)

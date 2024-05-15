@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EhsanPazhooman?cardType=github&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&preferLogin=false">    <img  alt="EhsanPazhooman's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/EhsanPazhooman?cardType=github&theme=midnight-purple&preferLogin=false" />  </a>

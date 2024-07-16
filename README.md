@@ -1,19 +1,26 @@
-### Hi there 👋
+### Ehsan Pazhooman👨‍💻
 
-<!--
-**EhsanPazhooman/EhsanPazhooman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Asp.Net Developer`**
 
-Here are some ideas to get you started:
+### 🧰 Languages and Tools
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt=".net core" width="90px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+<img align="left" alt="c sharp" width="90px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Git" width="90px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="90px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Sql Server" width="90px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
+<br /> 
+<br />
+<br />
+
+#
+
+### 📊 Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EhsanPazhooman?cardType=github&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)<br>
+
+#
+
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanPazhooman)](https://github.com/anuraghazra/github-readme-stats)

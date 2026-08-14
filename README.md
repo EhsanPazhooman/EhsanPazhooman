@@ -24,4 +24,4 @@
 
 ### Top Languages
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanPazhooman&hide=javascript,java&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanPazhooman&hide=javascript,css,scss,html&theme=tokyonight)
